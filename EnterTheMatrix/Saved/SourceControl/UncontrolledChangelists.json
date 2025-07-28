@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"V:/UnrealProjects/EnterTheMatrix/Content/Main.umap",
+				"V:/UnrealProjects/EnterTheMatrix/Content/Blueprints/BP_MatrixRepresentative.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Body.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Body_baseColor.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Body_metallicRoughness.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Body_normal.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Cushion.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Cushion_baseColor.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Cushion_metallicRoughness.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Cushion_normal.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/defaultMaterial.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/defaultMaterial_4026d4fe3b0d2767a34fd14b3ab38ed2.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/defaultMaterial_581898541052f17636fb12d564937d39.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/defaultMaterial_69a2be0fe4636c05279863388a30ab51.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/defaultMaterial_840dd5dc738dd34a330133275254816f.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/defaultMaterial_9f635c3bc47c9652aea739a1f0033247.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/defaultMaterial_d697a4cfffae09c6bdc52efa16afcd98.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Wood.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Wood_baseColor.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Wood_metallicRoughness.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Wood_normal.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/Widget/WBP_MatrixDataUI.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/Blueprints/BP_Pawn.uasset",
+				"D:/Vidya/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/BP_GameMode.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/E_Alter.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/Widget/WBP_HowTo.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/key.uasset",
+				"V:/UnrealProjects/EnterTheMatrix/Content/E_Translation.uasset"
+			]
+		}
+	]
+}
