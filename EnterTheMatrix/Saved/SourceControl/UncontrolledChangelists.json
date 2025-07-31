@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Users/618586/Documents/GitHub/EnterTheMatrix/EnterTheMatrix/Content/Blueprints/BP_MatrixRepresentative.uasset",
+				"D:/Users/618586/Documents/GitHub/EnterTheMatrix/EnterTheMatrix/Content/Blueprints/BP_Pawn.uasset",
+				"D:/Users/618586/Documents/GitHub/EnterTheMatrix/EnterTheMatrix/Content/Main.umap",
 				"V:/UnrealProjects/EnterTheMatrix/Content/Main.umap",
 				"V:/UnrealProjects/EnterTheMatrix/Content/Blueprints/BP_MatrixRepresentative.uasset",
 				"V:/UnrealProjects/EnterTheMatrix/Content/StaticMesh/MatrixChair/Body.uasset",
